@@ -50,4 +50,7 @@ Install requirements with pip:
 ```bash
 pip install -r requirements.txt
 ```
+## Output
+![](results/regression_plot.png)
+![](results/regression_plot02.png)
 
