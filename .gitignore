@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+.venv/
+venv/
+ENV/
+*.egg-info/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Output data and figures
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sav
+*.npy
+*.npz
+*.pkl
+*.joblib
+
+# Plots and exported visuals
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Environment config
+*.env
+.env.*
+*.conda
+*.lock
