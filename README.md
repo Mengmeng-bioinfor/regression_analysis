@@ -1,6 +1,6 @@
 # Regression Analysis
 
-This repository contains Python scripts for analyzing the effects of environmental factors and experimental grouping on Soil Organic Carbon (SOC) using multiple linear regression.
+This repository contains Python scripts for analyzing the effects of environmental factors and experimental grouping on environment/phenotypic factors using multiple linear regression.
 
 ## 📦 Features
 
