@@ -1,0 +1,11 @@
+name: soc-regression-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - statsmodels
